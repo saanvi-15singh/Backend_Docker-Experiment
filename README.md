@@ -24,3 +24,8 @@ This repository contains my Backend Development Docker Experiment, including Fas
 4. **Docker Experiment I/O File:** [View Docker Experiment I/O File](https://saanvi-15singh.github.io/Backend_Docker-Experiment/)
 
 5. **Docker Experiment Report:** [View Project Report](Report.md)
+---
+
+<p align="center">
+  Designed by <b>Saanvi Singh</b> | SAP ID: 590011951
+</p>
