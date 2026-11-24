@@ -15,9 +15,9 @@ This repository contains my Backend Development Docker Experiment, including Fas
 
 ### Important Links
 
-1. **Previous Backend Development GitHub Repository:** [View Repository](https://github.com/saanvi-15singh/BackendDevelopment)
+1. **Backend Development GitHub Repository:** [View Repository](https://github.com/saanvi-15singh/BackendDevelopment)
 
-2. **Previous Backend Development I/O File:** [View Previous I/O File](https://saanvi-15singh.github.io/BackendDevelopment)
+2. **Backend Development I/O File:** [View I/O File](https://saanvi-15singh.github.io/BackendDevelopment)
 
 3. **Docker Experiment Repository:** [View Docker Experiment Repository](https://github.com/saanvi-15singh/Backend_Docker-Experiment)
 
